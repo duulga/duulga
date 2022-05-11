@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @duulga
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Information Security.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Binary Analysis & V2X
+- 📫 How to reach me prab11@sch.ac.kr
+- 👨‍🔧 Member at lisa@sch.ac.kr
 
 <!---
 duulga/duulga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
