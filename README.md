@@ -28,7 +28,7 @@
 
 ## Competitive hacking & more
 
-* Tryhackme Profile [https://tryhackme.com/p/Ddumwamu]
+* [Tryhackme Profile](https://tryhackme.com/p/Ddumwamu)
 
 ## 🎯 Goals
 *  Get my first certificate
