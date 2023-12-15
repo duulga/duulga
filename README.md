@@ -29,6 +29,7 @@
 ## Competitive hacking & more
 
 * [Tryhackme Profile](https://tryhackme.com/p/Ddumwamu)
+* <script src="https://tryhackme.com/badge/96924"></script>
 
 ## 🎯 Goals
 *  Get my first certificate
