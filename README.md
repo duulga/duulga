@@ -29,6 +29,7 @@
 ## Competitive hacking & more
 
 * [Tryhackme Profile](https://tryhackme.com/p/Ddumwamu)
+* [CTFtime Team Profile](https://ctftime.org/team/278570)
 
 ## 🎯 Goals
 *  Get my first certificate
