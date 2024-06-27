@@ -20,7 +20,7 @@
 
 ### Publications
 
-*   Nothing except one in Korean conference
+*   Check [here](https://scholar.google.com/citations?user=2T18fz0AAAAJ&hl=en&oi=ao) 
 
 ## Projects
 
