@@ -7,16 +7,15 @@
 
 ### 🎖 Awards
 
-*   SCH Summa Cum Laude (tntjr whfdjqwk)
+*   SCH Summa Cum Laude (수석졸업)
 
 ### Certificates
 
-*   Awahjagaa
+*   정보처리기사 2024 (Engineer Information Processing)
 
 ### Experience
 
-*   Researcher at Lab of Information Systems Security Assurance [LISA](https://schlisa.com) (2022~)
-*   Worked as a member of research team on 2 NSR projects
+*   Researcher at Lab of Information Systems Security Assurance [LISA](https://schlisa.com) (2022~2025)
 
 ### Publications
 
@@ -32,8 +31,9 @@
 * [CTFtime Team Profile](https://ctftime.org/team/278570)
 
 ## 🎯 Goals
-*  Get my first certificate
-*  Publish my first conference paper
+*  Graduate
+*  Get a job at Korean tech company
+*  MOAR certificates
 <!---
 duulga/duulga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
