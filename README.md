@@ -25,10 +25,13 @@
 
 *  LLVM based Automatic vulnerability discovery system aiming embedded systems(Currently working)
 
-## Competitive hacking & more
+## Competitive hacking
 
 * [Tryhackme Profile](https://tryhackme.com/p/Ddumwamu)
 * [CTFtime Team Profile](https://ctftime.org/team/278570)
+* [ctf.mn (ddumwamu)](https://ctf.mn/scoreboard)
+* [dreamhack profile](https://dreamhack.io/users/66769)
+* [Hack the box profile](https://app.hackthebox.com/users/361096)
 
 ## 🎯 Goals
 *  Graduate
